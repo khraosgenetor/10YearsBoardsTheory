@@ -241,12 +241,12 @@ Reason (R): A class is known as an object factory because a single class generat
 ---
 
 ### **(xx) Which of the following statements is incorrect?**
-(a) Arrays can be initialized when they are declared.  
+(a) **Arrays can be initialized when they are declared.**  
 (b) Arrays can be initialized using ‘comma’ separated expressions surrounded by curly braces.  
-(c) **It is necessary to use the `new` operator to initialize an array.**  
+(c) It is necessary to use the `new` operator to initialize an array.  
 (d) None of the above
 
-**Answer:** **(c) It is necessary to use the `new` operator to initialize an array.**
+**Answer:** **(a) Arrays can be initialized when they are declared.**
 
 ---
 
@@ -337,4 +337,4 @@ public class q {
         " 1"+3
          13
 
-### **(v) Name the primitive data type in Java that is a 64 bits integer and is used when you need a range of values under than those provided by int.**
+### (v) Name the primitive data type in Java that is a 64 bits integer and is used when you need a range of values under than those provided by int.
